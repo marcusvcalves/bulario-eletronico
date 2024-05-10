@@ -28,4 +28,9 @@ docker-compose up --build
 npm install -g json-server; json-server api/dotlib.json -s ./api/public
 ```
 2. Iniciar o frontend
+   
 ```
+cd frontend; npm i; npm run dev
+```
+
+### O aplicativo estará disponível em http://localhost:8080.
